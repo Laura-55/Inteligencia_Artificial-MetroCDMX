@@ -1,4 +1,4 @@
-# 🚇 IA-MetroCDMX
+# 🚇 Inteligencia Artificial-MetroCDMX
 
 ### Optimización de rutas del Metro de Ciudad de México mediante Inteligencia Artificial
 
